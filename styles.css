@@ -14,7 +14,7 @@ body
 {
 	max-width:800px;
 	margin: 20px auto;
-padding: 30px;	
+	padding: 30px;	
 	background-color: #26ff00;
 }
 
@@ -29,5 +29,6 @@ img
 {
 	border: double 10px brown;
 }
+
 
 

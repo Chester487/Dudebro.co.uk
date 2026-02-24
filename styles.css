@@ -18,3 +18,15 @@ padding: 30px;
 	background-color: #bfa475;
 }
 
+#header /* Styles for Heading */
+{
+	padding: 5px;
+	background-color: #655035;
+	text-align: center;
+}
+
+img
+{
+	border: double 10px white;
+}
+
